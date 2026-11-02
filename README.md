@@ -137,11 +137,11 @@ EFI-Mounter 本身不会自动修改 EFI 中的文件，用户可以根据需要
 
 GitHub：
 
-https://github.com/luyf75
+https://github.com/luyfapp
 
 项目地址：
 
-https://github.com/luyf75/EFI-Mounter
+https://github.com/luyfapp/EFI-Mounter
 
 ## 📄 开源协议
 

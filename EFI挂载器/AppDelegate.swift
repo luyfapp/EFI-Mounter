@@ -168,7 +168,7 @@ final class AppDelegate: NSObject, NSApplicationDelegate {
         githubButton.action = #selector(openGitHub)
 
         let githubTitle = NSMutableAttributedString(
-            string: "GitHub：github.com/luyf75",
+            string: "GitHub：github.com/luyfapp",
             attributes: [
                 .font: NSFont.systemFont(ofSize: 13),
                 .foregroundColor: NSColor.systemBlue
@@ -192,7 +192,7 @@ final class AppDelegate: NSObject, NSApplicationDelegate {
         projectButton.action = #selector(openProject)
 
         let projectTitle = NSMutableAttributedString(
-            string: "项目地址：github.com/luyf75/EFI-Mounter",
+            string: "项目地址：github.com/luyfapp/EFI-Mounter",
             attributes: [
                 .font: NSFont.systemFont(ofSize: 13),
                 .foregroundColor: NSColor.systemBlue
@@ -212,14 +212,14 @@ final class AppDelegate: NSObject, NSApplicationDelegate {
     @objc
     private func openGitHub() {
         NSWorkspace.shared.open(
-            URL(string: "https://github.com/luyf75")!
+            URL(string: "https://github.com/luyfapp")!
         )
     }
 
     @objc
     private func openProject() {
         NSWorkspace.shared.open(
-            URL(string: "https://github.com/luyf75/EFI-Mounter")!
+            URL(string: "https://github.com/luyfapp/EFI-Mounter")!
         )
     }
 
