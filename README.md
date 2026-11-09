@@ -1,4 +1,4 @@
-# EFI 挂载器 v1.2.0-dev
+# EFI 挂载器 v1.2.2
 
 一个用于 macOS 的 EFI / ESP 分区管理工具。
 
@@ -8,7 +8,7 @@
 
 ## 当前版本
 
-**v1.2.0-dev** — 当前开发版本。上一正式版本为 v1.1.1，支持 Intel Mac（x86_64）和 Apple Silicon Mac（arm64）。
+**v1.2.2** — 当前正式版本，支持 Intel Mac（x86_64）和 Apple Silicon Mac（arm64）。
 ## 当前功能
 
 - 扫描 EFI / ESP 分区
@@ -24,9 +24,9 @@
 
 ## 下载
 
-最新正式版本：**v1.1.1**
+最新正式版本：**v1.2.2**
 
-请前往 GitHub Releases 下载 **EFI-Mounter-v1.1.1.dmg**。
+请前往 [GitHub Releases](https://github.com/luyfapp/EFI-Mounter/releases/latest) 下载 **EFI挂载器-v1.2.2.dmg** 或 ZIP 安装包。
 
 下载 DMG 后打开，将 `EFI挂载器.app` 拖入“应用程序”文件夹即可。
 ## 系统要求
@@ -102,3 +102,7 @@ v1.1.1 及以前版本采用 Apache License 2.0。
 商业使用请联系版权所有者获取商业授权。
 
 完整许可证内容请参阅项目根目录中的 `LICENSE` 文件。
+
+## 更新日志
+
+请参阅 [CHANGELOG.md](CHANGELOG.md)。
