@@ -129,7 +129,7 @@ final class AppDelegate: NSObject, NSApplicationDelegate {
 
         contentView.addSubview(
             makeLabel(
-                "版本 1.2.0",
+                "版本 1.2.2",
                 y: 136
             )
         )

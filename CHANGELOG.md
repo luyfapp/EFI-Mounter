@@ -7,6 +7,7 @@
 ### 变更
 
 - 将“关于”窗口中的 GitHub 账号、项目地址和跳转链接更新为 [luyfapp](https://github.com/luyfapp)。
+- 将“关于”窗口显示的版本号更新为 `1.2.2`。
 - 将本地 Git 仓库远程地址更新为 `https://github.com/luyfapp/EFI-Mounter.git`。
 - 更新许可证中的版权所有者署名为 `luyfapp`。
 - 清理发布构建中不应随应用分发的源码备份资源。
@@ -15,6 +16,7 @@
 
 - 重新构建 macOS Universal 应用，包含 Apple Silicon（arm64）和 Intel（x86_64）架构。
 - 版本号保持为 `1.2.2`，构建号保持为 `4`。
+- DMG 同时包含应用程序和“应用程序”拖拽快捷方式。
 
 ## [1.2.1] - 2026-10-06
 
